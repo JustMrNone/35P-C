@@ -9,5 +9,6 @@ core
 *.swp
 *.swo
 *.bak
+~$*
 *~    # Temporary files created by various editors
 *.autosave  # Autosave files created by certain editors
