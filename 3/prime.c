@@ -29,7 +29,6 @@ int main(int argc, char **argv)
         for(int i = 2; i <= n; i++)
             if(is_prime(i))
                 printf("%i\n", i);
-        
     }
 
     return 0;

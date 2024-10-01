@@ -1,0 +1,13 @@
+# Ignore core dumps
+core
+
+# Ignore .vscode directory (VS Code settings)
+.vscode/
+
+# Ignore temporary or live save files (add appropriate extension based on your editor)
+*.tmp
+*.swp
+*.swo
+*.bak
+*~    # Temporary files created by various editors
+*.autosave  # Autosave files created by certain editors
